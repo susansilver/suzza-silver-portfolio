@@ -708,6 +708,10 @@ Header p {
   font-size: 2rem;
 }
 
+body {
+  background-color: var(--color-secondary);
+}
+
 /* Sticky Nav 
 http://www.mattmorgante.com/technology/sticky-navigation-bar-javascript */
 nav {
@@ -716,6 +720,7 @@ nav {
   border-top: 2px solid #eee;
   text-align: center;
   margin: 0 auto;
+  padding-bottom: 1em;
 }
 
 /* applied after scroll height reached */
