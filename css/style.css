@@ -1080,3 +1080,7 @@ img {
 .link a:visited {
    color: #000;
 }
+
+.websites {
+  padding: 20px;
+}
