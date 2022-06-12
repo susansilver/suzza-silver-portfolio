@@ -1068,3 +1068,15 @@ img {
     page-break-inside: avoid;
   }
 }
+
+.link a {
+ color: #FFF;
+}
+
+.link a:hover {
+  color: #FFF;
+ }
+
+.link a:visited {
+   color: #000;
+}
